@@ -78,7 +78,7 @@ The app supports light and dark mode, which automatically adapts to your system�
 
 ---
 
-🔗 **Live Storybook:** [View the components](https://your-vercel-deployment-url.vercel.app)
+🔗 **Live Storybook:** [View the components](http://react-ui-components-sigma.vercel.app/)
 
 ---
 
