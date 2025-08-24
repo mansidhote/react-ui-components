@@ -68,6 +68,8 @@ interface Column<T> {
 }
 ```
 
+The app supports light and dark mode, which automatically adapts to your system’s preferred color scheme.
+
 **Light Mode Screenshot:**
 ![InputField Light](./assets/light%20mode.png)
 
