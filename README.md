@@ -68,6 +68,8 @@ interface Column<T> {
 }
 ```
 
+The app supports light and dark mode, which automatically adapts to your system’s preferred color scheme.
+
 **Light Mode Screenshot:**
 ![InputField Light](./assets/light%20mode.png)
 
@@ -151,7 +153,6 @@ README.md
 
 ## Author
 
-Mansi Dhote
 Email: [dhotemansi35@gmail.com](mailto:dhotemansi35@gmail.com)
 GitHub: [https://github.com/mansidhote](https://github.com/mansidhote)
 
@@ -160,5 +161,3 @@ GitHub: [https://github.com/mansidhote](https://github.com/mansidhote)
 ## License
 
 MIT
-
-```
